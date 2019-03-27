@@ -297,7 +297,10 @@
 <connect gate="G$1" pin="VDD" pad="4"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="IC-14356"/>
+<attribute name="VALUE" value="CAP1203" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -21834,7 +21837,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_05" device="NO_SILK" value="I2C Breakout Pins"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="U2" library="SparkX" deviceset="CAP1203" device=""/>
+<part name="U2" library="SparkX" deviceset="CAP1203" device="" value="CAP1203"/>
 <part name="JP3" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" value="JUMPER-SMT_3_2-NC_TRACE_SILK"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="R5" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
