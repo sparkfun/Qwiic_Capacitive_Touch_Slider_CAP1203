@@ -1,41 +1,24 @@
-SparkFun <PRODUCT NAME>
+SparkFun Capacitive Touch Slider - CAP1203 (Qwiic)
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![SparkFun Capacitive Touch Slider Board](https://cdn.sparkfun.com/assets/parts/1/3/8/7/1/15344-SparkFun_Capacitive_Touch_Slider_-_CAP1203__Qwiic_-01a.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Capacitive Touch Slider - CAP1203 (Qwiic) (SEN-15344)*](https://www.sparkfun.com/products/15344)
 
-<Basic description of the part.>
+An I2C based capacitive touch slider with 3 unique touch inputs.
 
 Repository Contents
 -------------------
-
-* **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
-* **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
+* **[Arduino Library](https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_Arduino_Library)** - Arduino library for the SparkFun Capacitive Touch Slider.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-capacitive-touch-slider-guide)** - Basic hookup guide for the SparkFun Capacitive Touch Slider.
 
 Product Versions
 ----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU](retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [SparkFun Capacitive Touch Slider - CAP1203 (Qwiic) (SEN-15344)](https://www.sparkfun.com/products/15344) - Storefront Product
 
 License Information
 -------------------
@@ -49,5 +32,3 @@ If you have any questions or concerns on licensing, please contact technical sup
 Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
-
-_<COLLABORATION CREDIT>_
