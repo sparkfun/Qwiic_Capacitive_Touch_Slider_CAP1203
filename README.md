@@ -14,7 +14,7 @@ Repository Contents
 Documentation
 --------------
 * **[Arduino Library](https://github.com/sparkfun/Qwiic_Capacitive_Touch_Slider_Arduino_Library)** - Arduino library for the SparkFun Capacitive Touch Slider.
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/capacitive-touch-slider-hookup-guide)** - Basic hookup guide for the SparkFun Capacitive Touch Slider.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/capacitive-touch-slider-cap1203-hookup-guide)** - Basic hookup guide for the SparkFun Capacitive Touch Slider.
 
 Product Versions
 ----------------
